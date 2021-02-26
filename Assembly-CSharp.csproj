@@ -86,12 +86,13 @@
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\Scripts\TouchButton.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\Scripts\WinZone.cs" />
-    <Compile Include="Assets\RobbiePlatformer_Project\Assets\Tilemaps\Scripts\CharacterController2D.cs" />
-    <Compile Include="Assets\RobbiePlatformer_Project\Assets\Tilemaps\Scripts\Player_movement.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\_Extended\Scripts\AutoSpikes.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\_Extended\Scripts\FallingBlock.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\_Extended\Scripts\FallingBlockCollision.cs" />
     <Compile Include="Assets\RobbiePlatformer_Project\Assets\_Extended\Scripts\SwingAxe.cs" />
+    <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+    <Compile Include="Assets\Scripts\HeadCollide.cs" />
+    <Compile Include="Assets\Scripts\Player_movement.cs" />
     <None Include="Assets\RobbiePlatformer_Project\Assets\Addons\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\RobbiePlatformer_Project\Assets\UI\Shaders\Fader.shader" />
     <None Include="Assets\RobbiePlatformer_Project\Assets\Addons\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
